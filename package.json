@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "underscore": "^1.13.2"
+  },
+  "name": "learningjavascript",
+  "description": "= Learning Javascript, 3rd Edition\r == Chapter 2: Javascript Development Tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^8.5.0",
+    "eslint-plugin-react": "^7.28.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^7.0.1",
+    "gulp-eslint": "^6.0.0"
+  }
+}
